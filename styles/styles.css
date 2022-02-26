@@ -1,0 +1,53 @@
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.header_container_text {
+    width: 700px;
+}
+
+.header_text {
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.main_section {
+    width: 700px;
+    margin-bottom: 30px;
+}
+
+.main_section p {
+    font-weight: none;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.img_container {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 700px;
+}
+
+.img_container img {
+    width: 700px;
+}
+
+.img_container .img_last {
+    width: 250px;
+    margin: 0 auto;
+}
+
+.ul_container {
+    font-size: 18px;
+    line-height: 35px;
+}
